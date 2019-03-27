@@ -1,0 +1,6 @@
+framework module Pods_InstaParseUITests {
+  umbrella header "Pods-InstaParseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
